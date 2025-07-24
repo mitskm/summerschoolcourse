@@ -1,0 +1,362 @@
+,gender,Status,First_Reviewer,Second_Reviewer,First_Grade,Second_Grade,Target
+0,0.0,11 класс,reviewer_7,reviewer_6,20.0,20,20.0
+1,1.0,10 класс,reviewer_6,reviewer_7,0.0,0,0.0
+2,1.0,11 класс,reviewer_9,reviewer_7,21.0,25,23.0
+3,1.0,9 класс,reviewer_9,reviewer_5,18.0,19,18.5
+4,1.0,10 класс,reviewer_6,reviewer_7,30.0,30,30.0
+5,1.0,11 класс,reviewer_9,reviewer_7,24.0,22,23.0
+6,0.0,11 класс,reviewer_6,reviewer_3,26.0,27,26.5
+7,0.0,11 класс,reviewer_6,reviewer_7,28.0,24,26.0
+8,1.0,10 класс,reviewer_5,reviewer_6,23.0,23,23.0
+9,1.0,Иное,reviewer_4,reviewer_9,24.0,24,24.0
+10,1.0,9 класс,reviewer_9,reviewer_7,22.0,23,22.5
+11,1.0,11 класс,reviewer_8,reviewer_3,25.0,23,24.0
+12,1.0,10 класс,reviewer_8,reviewer_2,25.0,24,24.5
+13,1.0,11 класс,reviewer_3,reviewer_6,15.0,16,15.5
+14,1.0,11 класс,reviewer_5,reviewer_6,29.0,29,29.0
+15,1.0,9 класс,reviewer_7,reviewer_6,23.0,23,23.0
+16,1.0,11 класс,reviewer_7,reviewer_2,30.0,30,30.0
+17,1.0,10 класс,reviewer_7,reviewer_9,26.0,27,26.5
+18,0.0,11 класс,reviewer_5,reviewer_6,27.0,27,27.0
+19,0.0,10 класс,reviewer_7,reviewer_5,18.0,17,17.5
+20,1.0,11 класс,reviewer_7,reviewer_9,24.0,26,25.0
+21,1.0,10 класс,reviewer_7,reviewer_9,26.0,22,24.0
+22,0.0,11 класс,reviewer_5,reviewer_3,18.0,20,19.0
+23,0.0,9 класс,reviewer_9,reviewer_7,13.0,13,13.0
+24,1.0,11 класс,reviewer_4,reviewer_7,21.0,22,21.5
+25,1.0,10 класс,reviewer_9,reviewer_2,23.0,20,21.5
+26,0.0,10 класс,reviewer_6,reviewer_7,30.0,25,27.5
+27,0.0,11 класс,reviewer_8,reviewer_5,26.0,26,26.0
+28,1.0,11 класс,reviewer_8,reviewer_5,27.0,26,26.5
+29,1.0,9 класс,reviewer_7,reviewer_6,26.0,26,26.0
+30,0.0,11 класс,reviewer_3,reviewer_6,23.0,23,23.0
+31,1.0,9 класс,reviewer_7,reviewer_8,16.0,23,19.5
+32,1.0,10 класс,reviewer_8,reviewer_5,29.0,27,28.0
+33,1.0,11 класс,reviewer_8,reviewer_3,5.0,5,5.0
+34,1.0,10 класс,reviewer_6,reviewer_8,26.0,26,26.0
+35,1.0,11 класс,reviewer_3,reviewer_9,15.0,18,16.5
+36,1.0,11 класс,reviewer_9,reviewer_5,29.0,26,27.5
+37,0.0,11 класс,reviewer_6,reviewer_7,26.0,27,26.5
+38,1.0,11 класс,reviewer_9,reviewer_7,23.0,25,24.0
+39,1.0,11 класс,reviewer_8,reviewer_6,20.0,21,20.5
+40,1.0,10 класс,reviewer_5,reviewer_6,15.0,12,13.5
+41,1.0,11 класс,reviewer_8,reviewer_5,18.0,18,18.0
+42,1.0,11 класс,reviewer_6,reviewer_9,28.0,29,28.5
+43,1.0,10 класс,reviewer_6,reviewer_7,23.0,22,22.5
+44,1.0,11 класс,reviewer_9,reviewer_7,23.0,24,23.5
+45,0.0,11 класс,reviewer_6,reviewer_8,25.0,24,24.5
+46,1.0,9 класс,reviewer_3,reviewer_6,18.0,20,19.0
+47,1.0,11 класс,reviewer_4,reviewer_9,25.0,27,26.0
+48,1.0,Иное,reviewer_2,reviewer_7,23.0,24,23.5
+49,1.0,11 класс,reviewer_9,reviewer_2,9.0,10,9.5
+50,1.0,11 класс,reviewer_3,reviewer_6,22.0,22,22.0
+51,1.0,Иное,reviewer_5,reviewer_7,24.0,25,24.5
+52,0.0,11 класс,reviewer_6,reviewer_9,28.0,26,27.0
+53,1.0,11 класс,reviewer_9,reviewer_7,17.0,21,19.0
+54,0.0,Иное,reviewer_3,reviewer_6,13.0,23,13.0
+55,1.0,10 класс,reviewer_6,reviewer_8,28.0,27,27.5
+56,1.0,11 класс,reviewer_2,reviewer_7,22.0,16,19.0
+57,0.0,Иное,reviewer_4,reviewer_7,17.0,17,17.0
+58,1.0,11 класс,reviewer_3,reviewer_8,14.0,18,16.0
+59,1.0,9 класс,reviewer_9,reviewer_7,28.0,25,26.5
+60,1.0,11 класс,reviewer_6,reviewer_7,23.0,21,22.0
+61,1.0,Иное,reviewer_8,reviewer_6,30.0,30,30.0
+62,1.0,10 класс,reviewer_6,reviewer_7,0.0,9,4.5
+63,1.0,11 класс,reviewer_7,reviewer_8,26.0,26,26.0
+64,0.0,10 класс,reviewer_6,reviewer_8,20.0,22,21.0
+65,1.0,11 класс,reviewer_9,reviewer_5,25.0,20,22.5
+66,1.0,10 класс,reviewer_6,reviewer_7,24.0,29,26.5
+67,0.0,11 класс,reviewer_9,reviewer_7,23.0,26,24.5
+68,1.0,9 класс,reviewer_7,reviewer_6,22.0,24,23.0
+69,1.0,11 класс,reviewer_4,reviewer_9,30.0,28,29.0
+70,1.0,Иное,reviewer_6,reviewer_5,26.0,24,25.0
+71,1.0,Иное,reviewer_7,reviewer_9,23.0,23,23.0
+72,1.0,10 класс,reviewer_6,reviewer_7,26.0,26,26.0
+73,1.0,Иное,reviewer_7,reviewer_6,27.0,29,28.0
+74,1.0,11 класс,reviewer_7,reviewer_3,28.0,29,28.5
+75,1.0,Иное,reviewer_9,reviewer_7,24.0,22,23.0
+76,0.0,10 класс,reviewer_5,reviewer_6,12.0,0,0.0
+77,1.0,10 класс,reviewer_7,reviewer_9,25.0,26,25.5
+78,1.0,11 класс,reviewer_4,reviewer_9,26.0,26,26.0
+79,1.0,9 класс,reviewer_6,reviewer_4,18.0,25,21.5
+80,1.0,11 класс,reviewer_4,reviewer_9,24.0,21,22.5
+81,0.0,11 класс,reviewer_8,reviewer_5,17.0,28,17.0
+82,1.0,10 класс,reviewer_6,reviewer_8,26.0,24,25.0
+83,0.0,11 класс,reviewer_6,reviewer_3,28.0,29,28.5
+84,1.0,9 класс,reviewer_4,reviewer_6,22.0,22,22.0
+85,0.0,10 класс,reviewer_8,reviewer_9,4.0,0,2.0
+86,1.0,Иное,reviewer_3,reviewer_5,18.0,17,17.5
+87,0.0,11 класс,reviewer_8,reviewer_6,20.0,22,21.0
+88,1.0,11 класс,reviewer_4,reviewer_9,24.0,24,24.0
+89,1.0,11 класс,reviewer_8,reviewer_3,21.0,21,21.0
+90,0.0,10 класс,reviewer_7,reviewer_6,4.0,4,4.0
+91,1.0,10 класс,reviewer_9,reviewer_7,16.0,14,15.0
+92,0.0,11 класс,reviewer_7,reviewer_6,24.0,25,24.5
+93,0.0,11 класс,reviewer_8,reviewer_2,21.0,21,21.0
+94,1.0,10 класс,reviewer_5,reviewer_7,26.0,25,25.5
+95,0.0,11 класс,reviewer_8,reviewer_9,27.0,27,27.0
+96,1.0,Иное,reviewer_4,reviewer_9,28.0,25,26.5
+97,1.0,9 класс,reviewer_7,reviewer_3,23.0,22,22.5
+98,1.0,11 класс,reviewer_2,reviewer_6,26.0,26,26.0
+99,1.0,11 класс,reviewer_8,reviewer_5,13.0,16,14.5
+100,1.0,10 класс,reviewer_3,reviewer_4,22.0,21,21.5
+101,0.0,11 класс,reviewer_8,reviewer_5,25.0,27,26.0
+102,1.0,10 класс,reviewer_6,reviewer_8,26.0,24,25.0
+103,1.0,11 класс,reviewer_6,reviewer_8,25.0,28,26.5
+104,0.0,11 класс,reviewer_9,reviewer_5,26.0,26,26.0
+105,1.0,11 класс,reviewer_4,reviewer_9,28.0,28,28.0
+106,1.0,10 класс,reviewer_7,reviewer_6,29.0,27,28.0
+107,1.0,11 класс,reviewer_5,reviewer_9,27.0,26,26.5
+108,0.0,10 класс,reviewer_6,reviewer_7,21.0,24,22.5
+109,1.0,10 класс,reviewer_4,reviewer_5,22.0,20,21.0
+110,1.0,11 класс,reviewer_9,reviewer_6,28.0,28,28.0
+111,1.0,10 класс,reviewer_3,reviewer_6,15.0,16,15.5
+112,1.0,10 класс,reviewer_7,reviewer_9,24.0,25,24.5
+113,0.0,10 класс,reviewer_3,reviewer_7,28.0,24,26.0
+114,1.0,11 класс,reviewer_5,reviewer_4,15.0,20,17.5
+115,1.0,10 класс,reviewer_8,reviewer_3,28.0,29,28.5
+116,1.0,11 класс,reviewer_6,reviewer_5,22.0,22,22.0
+117,0.0,11 класс,reviewer_5,reviewer_3,16.0,17,16.5
+118,1.0,11 класс,reviewer_6,reviewer_7,28.0,22,25.0
+119,0.0,11 класс,reviewer_8,reviewer_5,25.0,25,25.0
+120,1.0,Иное,reviewer_8,reviewer_7,24.0,17,20.5
+121,0.0,10 класс,reviewer_5,reviewer_9,20.0,21,20.5
+122,1.0,11 класс,reviewer_2,reviewer_8,25.0,27,26.0
+123,1.0,11 класс,reviewer_5,reviewer_9,26.0,28,27.0
+124,0.0,10 класс,reviewer_5,reviewer_6,23.0,30,26.5
+125,1.0,11 класс,reviewer_6,reviewer_7,29.0,29,29.0
+126,1.0,10 класс,reviewer_6,reviewer_4,25.0,25,25.0
+127,1.0,11 класс,reviewer_3,reviewer_6,27.0,28,27.5
+128,1.0,10 класс,reviewer_7,reviewer_9,18.0,23,20.5
+129,1.0,10 класс,reviewer_3,reviewer_7,24.0,22,23.0
+130,0.0,11 класс,reviewer_6,reviewer_7,17.0,15,16.0
+131,1.0,11 класс,reviewer_6,reviewer_9,28.0,25,26.5
+132,1.0,11 класс,reviewer_7,reviewer_8,20.0,25,22.5
+133,0.0,10 класс,reviewer_7,reviewer_6,21.0,22,21.5
+134,0.0,11 класс,reviewer_7,reviewer_6,26.0,27,26.5
+135,1.0,Иное,reviewer_7,reviewer_9,25.0,27,26.0
+136,1.0,Иное,reviewer_7,reviewer_5,29.0,26,27.5
+137,1.0,Иное,reviewer_3,reviewer_6,20.0,22,21.0
+138,1.0,Иное,reviewer_5,reviewer_6,23.0,23,23.0
+139,0.0,11 класс,reviewer_8,reviewer_5,21.0,24,22.5
+140,1.0,10 класс,reviewer_8,reviewer_7,20.0,22,21.0
+141,0.0,10 класс,reviewer_3,reviewer_6,22.0,23,22.5
+142,1.0,9 класс,reviewer_6,reviewer_7,23.0,22,22.5
+143,1.0,11 класс,reviewer_7,reviewer_6,22.0,22,22.0
+144,0.0,11 класс,reviewer_7,reviewer_6,17.0,22,19.5
+145,1.0,11 класс,reviewer_7,reviewer_8,27.0,25,26.0
+146,1.0,11 класс,reviewer_3,reviewer_7,30.0,30,30.0
+147,1.0,9 класс,reviewer_6,reviewer_5,25.0,21,23.0
+148,1.0,11 класс,reviewer_8,reviewer_9,27.0,26,26.5
+149,1.0,9 класс,reviewer_6,reviewer_7,26.0,17,21.5
+150,0.0,10 класс,reviewer_4,reviewer_5,25.0,25,25.0
+151,1.0,11 класс,reviewer_6,reviewer_8,24.0,23,23.5
+152,1.0,10 класс,reviewer_3,reviewer_7,26.0,24,25.0
+153,0.0,11 класс,reviewer_8,reviewer_2,28.0,29,28.5
+154,1.0,9 класс,reviewer_7,reviewer_9,22.0,29,25.5
+155,0.0,Иное,reviewer_7,reviewer_5,15.0,23,19.0
+156,0.0,11 класс,reviewer_3,reviewer_9,18.0,22,20.0
+157,1.0,10 класс,reviewer_8,reviewer_2,29.0,28,28.5
+158,1.0,11 класс,reviewer_6,reviewer_7,25.0,22,23.5
+159,1.0,10 класс,reviewer_7,reviewer_8,27.0,29,28.0
+160,1.0,11 класс,reviewer_2,reviewer_9,26.0,24,25.0
+161,1.0,10 класс,reviewer_3,reviewer_7,21.0,20,20.5
+162,1.0,10 класс,reviewer_3,reviewer_6,23.0,24,23.5
+163,1.0,11 класс,reviewer_7,reviewer_3,19.0,17,18.0
+164,0.0,11 класс,reviewer_7,reviewer_5,24.0,24,24.0
+165,1.0,11 класс,reviewer_7,reviewer_9,23.0,24,23.5
+166,0.0,11 класс,reviewer_4,reviewer_9,25.0,21,23.0
+167,1.0,11 класс,reviewer_8,reviewer_5,19.0,22,20.5
+168,1.0,11 класс,reviewer_7,reviewer_9,19.0,16,17.5
+169,1.0,11 класс,reviewer_8,reviewer_9,30.0,25,27.5
+170,1.0,Иное,reviewer_5,reviewer_6,22.0,22,22.0
+171,0.0,11 класс,reviewer_6,reviewer_7,30.0,30,30.0
+172,0.0,11 класс,reviewer_5,reviewer_6,24.0,24,24.0
+173,1.0,10 класс,reviewer_3,reviewer_9,17.0,19,18.0
+174,1.0,11 класс,reviewer_9,reviewer_3,24.0,23,23.5
+175,1.0,11 класс,reviewer_3,reviewer_6,23.0,19,21.0
+176,1.0,10 класс,reviewer_6,reviewer_4,24.0,27,25.5
+177,1.0,10 класс,reviewer_6,reviewer_7,17.0,17,17.0
+178,0.0,Иное,reviewer_3,reviewer_4,17.0,21,19.0
+179,1.0,11 класс,reviewer_9,reviewer_7,19.0,19,19.0
+180,1.0,11 класс,reviewer_9,reviewer_7,27.0,29,28.0
+181,1.0,Иное,reviewer_7,reviewer_6,27.0,28,27.5
+182,0.0,10 класс,reviewer_5,reviewer_9,22.0,21,21.5
+183,1.0,9 класс,reviewer_7,reviewer_9,19.0,21,20.0
+184,1.0,Иное,reviewer_2,reviewer_9,30.0,26,28.0
+185,0.0,10 класс,reviewer_9,reviewer_5,22.0,22,22.0
+186,1.0,Иное,reviewer_4,reviewer_8,25.0,23,24.0
+187,1.0,Иное,reviewer_7,reviewer_6,27.0,30,28.5
+188,1.0,11 класс,reviewer_9,reviewer_7,27.0,27,27.0
+189,1.0,10 класс,reviewer_8,reviewer_5,24.0,25,24.5
+190,1.0,Иное,reviewer_3,reviewer_6,20.0,28,24.0
+191,1.0,11 класс,reviewer_9,reviewer_7,28.0,27,27.5
+192,1.0,11 класс,reviewer_3,reviewer_6,22.0,22,22.0
+193,1.0,11 класс,reviewer_7,reviewer_6,19.0,19,19.0
+194,0.0,11 класс,reviewer_9,reviewer_6,25.0,25,25.0
+195,1.0,Иное,reviewer_8,reviewer_7,25.0,21,23.0
+196,1.0,10 класс,reviewer_6,reviewer_8,0.0,7,3.5
+197,1.0,10 класс,reviewer_6,reviewer_7,30.0,27,28.5
+198,0.0,10 класс,reviewer_7,reviewer_8,26.0,27,26.5
+199,1.0,11 класс,reviewer_7,reviewer_6,25.0,25,25.0
+200,1.0,11 класс,reviewer_8,reviewer_7,21.0,25,23.0
+201,1.0,9 класс,reviewer_5,reviewer_6,27.0,30,28.5
+202,1.0,11 класс,reviewer_8,reviewer_2,20.0,20,20.0
+203,1.0,11 класс,reviewer_7,reviewer_6,25.0,25,25.0
+204,1.0,10 класс,reviewer_8,reviewer_3,20.0,19,19.5
+205,1.0,11 класс,reviewer_8,reviewer_7,25.0,27,26.0
+206,1.0,9 класс,reviewer_4,reviewer_7,21.0,21,21.0
+207,1.0,10 класс,reviewer_2,reviewer_9,17.0,12,14.5
+208,0.0,10 класс,reviewer_7,reviewer_5,13.0,19,16.0
+209,0.0,10 класс,reviewer_6,reviewer_4,0.0,11,0.0
+210,1.0,11 класс,reviewer_6,reviewer_7,25.0,26,25.5
+211,1.0,11 класс,reviewer_6,reviewer_4,28.0,27,27.5
+212,1.0,11 класс,reviewer_6,reviewer_5,0.0,0,0.0
+213,1.0,11 класс,reviewer_7,reviewer_6,4.0,4,4.0
+214,1.0,10 класс,reviewer_6,reviewer_7,22.0,23,22.5
+215,1.0,11 класс,reviewer_8,reviewer_9,25.0,24,24.5
+216,1.0,10 класс,reviewer_7,reviewer_6,23.0,24,23.5
+217,1.0,9 класс,reviewer_8,reviewer_7,16.0,20,18.0
+218,1.0,11 класс,reviewer_7,reviewer_4,23.0,28,25.5
+219,0.0,9 класс,reviewer_7,reviewer_5,21.0,27,24.0
+220,0.0,10 класс,reviewer_4,reviewer_9,27.0,26,26.5
+221,1.0,11 класс,reviewer_3,reviewer_8,22.0,19,20.5
+222,1.0,Иное,reviewer_4,reviewer_5,21.0,14,17.5
+223,1.0,11 класс,reviewer_7,reviewer_3,23.0,22,22.5
+224,1.0,11 класс,reviewer_7,reviewer_6,26.0,26,26.0
+225,1.0,10 класс,reviewer_8,reviewer_7,26.0,24,25.0
+226,1.0,11 класс,reviewer_8,reviewer_3,22.0,22,22.0
+227,1.0,11 класс,reviewer_7,reviewer_6,26.0,25,25.5
+228,1.0,11 класс,reviewer_8,reviewer_5,25.0,24,24.5
+229,1.0,9 класс,reviewer_9,reviewer_7,18.0,18,18.0
+230,1.0,Иное,reviewer_7,reviewer_6,18.0,25,21.5
+231,1.0,9 класс,reviewer_6,reviewer_9,20.0,21,20.5
+232,1.0,10 класс,reviewer_6,reviewer_7,30.0,22,26.0
+233,1.0,11 класс,reviewer_8,reviewer_9,28.0,28,28.0
+234,0.0,11 класс,reviewer_4,reviewer_9,20.0,18,19.0
+235,1.0,11 класс,reviewer_7,reviewer_3,28.0,26,27.0
+236,0.0,Иное,reviewer_3,reviewer_6,26.0,26,26.0
+237,1.0,9 класс,reviewer_7,reviewer_6,25.0,24,24.5
+238,1.0,11 класс,reviewer_6,reviewer_4,23.0,21,22.0
+239,0.0,10 класс,reviewer_8,reviewer_5,23.0,22,22.5
+240,0.0,11 класс,reviewer_3,reviewer_6,20.0,21,20.5
+241,1.0,10 класс,reviewer_6,reviewer_8,26.0,24,25.0
+242,1.0,11 класс,reviewer_7,reviewer_5,23.0,22,22.5
+243,1.0,9 класс,reviewer_5,reviewer_6,28.0,28,28.0
+244,0.0,10 класс,reviewer_8,reviewer_9,13.0,11,12.0
+245,1.0,11 класс,reviewer_7,reviewer_8,26.0,25,25.5
+246,1.0,Иное,reviewer_7,reviewer_6,28.0,30,29.0
+247,1.0,Иное,reviewer_4,reviewer_5,26.0,24,25.0
+248,0.0,10 класс,reviewer_6,reviewer_7,23.0,20,21.5
+249,1.0,10 класс,reviewer_9,reviewer_7,22.0,23,22.5
+250,1.0,10 класс,reviewer_7,reviewer_6,28.0,0,0.0
+251,0.0,10 класс,reviewer_4,reviewer_5,22.0,18,20.0
+252,1.0,11 класс,reviewer_5,reviewer_7,20.0,20,20.0
+253,1.0,11 класс,reviewer_6,reviewer_7,23.0,22,22.5
+254,1.0,11 класс,reviewer_9,reviewer_4,27.0,27,27.0
+255,1.0,11 класс,reviewer_6,reviewer_4,24.0,24,24.0
+256,1.0,Иное,reviewer_8,reviewer_3,8.0,7,7.5
+257,1.0,10 класс,reviewer_6,reviewer_4,23.0,23,23.0
+258,0.0,11 класс,reviewer_6,reviewer_9,30.0,28,29.0
+259,0.0,9 класс,reviewer_9,reviewer_2,28.0,28,28.0
+260,1.0,9 класс,reviewer_2,reviewer_7,19.0,20,19.5
+261,1.0,11 класс,reviewer_3,reviewer_5,19.0,18,18.5
+262,1.0,11 класс,reviewer_8,reviewer_3,24.0,25,24.5
+263,1.0,10 класс,reviewer_5,reviewer_6,24.0,26,25.0
+264,1.0,11 класс,reviewer_6,reviewer_4,21.0,22,21.5
+265,0.0,10 класс,reviewer_4,reviewer_9,26.0,28,27.0
+266,1.0,11 класс,reviewer_7,reviewer_3,26.0,29,27.5
+267,1.0,10 класс,reviewer_9,reviewer_6,22.0,22,22.0
+268,1.0,Иное,reviewer_4,reviewer_7,25.0,25,25.0
+269,1.0,11 класс,reviewer_2,reviewer_6,22.0,26,24.0
+270,1.0,10 класс,reviewer_7,reviewer_9,28.0,28,28.0
+271,0.0,Иное,reviewer_6,reviewer_8,26.0,24,25.0
+272,1.0,11 класс,reviewer_8,reviewer_2,24.0,21,22.5
+273,1.0,11 класс,reviewer_5,reviewer_9,24.0,21,22.5
+274,1.0,11 класс,reviewer_3,reviewer_4,26.0,27,26.5
+275,1.0,10 класс,reviewer_3,reviewer_9,24.0,24,24.0
+276,0.0,11 класс,reviewer_8,reviewer_3,26.0,27,26.5
+277,0.0,10 класс,reviewer_9,reviewer_7,24.0,18,21.0
+278,1.0,9 класс,reviewer_7,reviewer_5,24.0,25,24.5
+279,1.0,Иное,reviewer_5,reviewer_6,23.0,19,21.0
+280,1.0,10 класс,reviewer_8,reviewer_2,22.0,19,20.5
+281,1.0,10 класс,reviewer_2,reviewer_7,25.0,25,25.0
+282,1.0,11 класс,reviewer_7,reviewer_9,29.0,28,28.5
+283,0.0,11 класс,reviewer_6,reviewer_7,20.0,24,22.0
+284,1.0,11 класс,reviewer_4,reviewer_9,24.0,23,23.5
+285,1.0,10 класс,reviewer_7,reviewer_9,20.0,19,19.5
+286,0.0,10 класс,reviewer_2,reviewer_6,24.0,23,23.5
+287,0.0,11 класс,reviewer_4,reviewer_7,28.0,30,29.0
+288,1.0,Иное,reviewer_7,reviewer_9,27.0,28,27.5
+289,1.0,11 класс,reviewer_6,reviewer_4,22.0,22,22.0
+290,0.0,11 класс,reviewer_6,reviewer_4,26.0,27,26.5
+291,1.0,Иное,reviewer_2,reviewer_6,26.0,26,26.0
+292,1.0,11 класс,reviewer_4,reviewer_9,24.0,22,23.0
+293,0.0,11 класс,reviewer_9,reviewer_4,26.0,24,25.0
+294,1.0,10 класс,reviewer_8,reviewer_3,22.0,23,22.5
+295,0.0,11 класс,reviewer_3,reviewer_6,16.0,16,16.0
+296,1.0,10 класс,reviewer_7,reviewer_6,28.0,28,28.0
+297,0.0,11 класс,reviewer_7,reviewer_9,20.0,23,21.5
+298,1.0,11 класс,reviewer_3,reviewer_9,17.0,18,17.5
+299,1.0,11 класс,reviewer_4,reviewer_6,20.0,19,19.5
+300,1.0,11 класс,reviewer_3,reviewer_7,12.0,16,14.0
+301,1.0,11 класс,reviewer_9,reviewer_7,21.0,21,21.0
+302,1.0,Иное,reviewer_9,reviewer_7,18.0,18,18.0
+303,1.0,10 класс,reviewer_8,reviewer_3,24.0,25,24.5
+304,1.0,10 класс,reviewer_6,reviewer_7,23.0,22,22.5
+305,1.0,Иное,reviewer_3,reviewer_6,28.0,28,28.0
+306,0.0,11 класс,reviewer_8,reviewer_7,28.0,27,27.5
+307,0.0,11 класс,reviewer_5,reviewer_6,27.0,27,27.0
+308,1.0,10 класс,reviewer_7,reviewer_9,15.0,21,18.0
+309,0.0,11 класс,reviewer_7,reviewer_3,23.0,26,24.5
+310,1.0,9 класс,reviewer_9,reviewer_6,21.0,24,22.5
+311,0.0,10 класс,reviewer_4,reviewer_5,28.0,26,27.0
+312,1.0,10 класс,reviewer_8,reviewer_3,21.0,19,20.0
+313,0.0,10 класс,reviewer_3,reviewer_4,28.0,26,27.0
+314,0.0,10 класс,reviewer_8,reviewer_3,24.0,23,23.5
+315,1.0,11 класс,reviewer_6,reviewer_7,26.0,28,27.0
+316,0.0,Иное,reviewer_8,reviewer_9,30.0,28,29.0
+317,1.0,10 класс,reviewer_8,reviewer_2,15.0,13,14.0
+318,1.0,Иное,reviewer_3,reviewer_8,23.0,25,24.0
+319,0.0,10 класс,reviewer_6,reviewer_7,24.0,25,24.5
+320,0.0,11 класс,reviewer_7,reviewer_8,28.0,29,28.5
+321,1.0,11 класс,reviewer_5,reviewer_9,29.0,29,29.0
+322,0.0,10 класс,reviewer_9,reviewer_7,28.0,27,27.5
+323,1.0,11 класс,reviewer_3,reviewer_6,25.0,25,25.0
+324,0.0,11 класс,reviewer_7,reviewer_9,24.0,24,24.0
+325,1.0,11 класс,reviewer_4,reviewer_9,26.0,24,25.0
+326,0.0,11 класс,reviewer_5,reviewer_9,24.0,24,24.0
+327,1.0,10 класс,reviewer_4,reviewer_7,25.0,19,22.0
+328,1.0,Иное,reviewer_3,reviewer_5,24.0,23,23.5
+329,1.0,10 класс,reviewer_2,reviewer_9,7.0,7,7.0
+330,1.0,11 класс,reviewer_6,reviewer_5,20.0,21,20.5
+331,1.0,10 класс,reviewer_6,reviewer_4,26.0,25,25.5
+332,0.0,11 класс,reviewer_9,reviewer_7,19.0,18,18.5
+333,0.0,10 класс,reviewer_8,reviewer_6,19.0,21,20.0
+334,1.0,10 класс,reviewer_7,reviewer_2,30.0,29,29.5
+335,1.0,10 класс,reviewer_4,reviewer_9,25.0,25,25.0
+336,0.0,11 класс,reviewer_7,reviewer_3,22.0,21,21.5
+337,0.0,11 класс,reviewer_8,reviewer_3,22.0,24,23.0
+338,1.0,11 класс,reviewer_4,reviewer_8,21.0,21,21.0
+339,1.0,11 класс,reviewer_8,reviewer_4,26.0,27,26.5
+340,1.0,11 класс,reviewer_4,reviewer_9,28.0,26,27.0
+341,1.0,11 класс,reviewer_4,reviewer_5,17.0,15,16.0
+342,0.0,11 класс,reviewer_9,reviewer_7,21.0,22,21.5
+343,0.0,Иное,reviewer_9,reviewer_7,26.0,26,26.0
+344,0.0,11 класс,reviewer_6,reviewer_7,23.0,22,22.5
+345,1.0,10 класс,reviewer_5,reviewer_6,17.0,16,16.5
+346,1.0,Иное,reviewer_6,reviewer_7,28.0,20,24.0
+347,1.0,9 класс,reviewer_7,reviewer_6,22.0,28,25.0
+348,1.0,9 класс,reviewer_5,reviewer_9,29.0,28,28.5
+349,1.0,11 класс,reviewer_2,reviewer_7,17.0,19,18.0
+350,1.0,9 класс,reviewer_8,reviewer_6,23.0,0,0.0
+351,1.0,11 класс,reviewer_9,reviewer_7,19.0,25,22.0
+352,1.0,10 класс,reviewer_7,reviewer_3,25.0,26,25.5
+353,1.0,11 класс,reviewer_5,reviewer_9,27.0,25,26.0
+354,1.0,11 класс,reviewer_3,reviewer_6,28.0,30,29.0
+355,1.0,10 класс,reviewer_9,reviewer_7,17.0,14,15.5
+356,1.0,9 класс,reviewer_7,reviewer_8,12.0,14,13.0
+357,0.0,Иное,reviewer_9,reviewer_5,23.0,21,22.0
+358,1.0,10 класс,reviewer_6,reviewer_7,20.0,20,20.0
+359,1.0,11 класс,reviewer_7,reviewer_8,26.0,26,26.0
+360,1.0,11 класс,reviewer_7,reviewer_6,4.0,4,4.0
